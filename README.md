@@ -1,4 +1,13 @@
-## Hi there 👋
+# Hi, I'm Uchechukwu  👋🏾⚡
+
+![image](https://github.com/user-attachments/assets/14d2eb52-c6e0-4959-9a9b-fc5dd8021c2b)
+
+### I'm a software engineer dedicated to making open-source contributions more accessible, crafting technology that empowers people, and fostering vibrant communities. I thrive working with technologies like Django, Python, APIs, and Markup. 
+### During the late 2024 (December), I was among those selected for the fully-funded prestigous software development bootcamp by Hyperiondev where I was exposed to different software developmental tools that had horned my skills and made me an excellent programmer.
+
+## Find me around the web 🌎:
+#### The overseas teacher: https://www.youtube.com/@TheOverseasTeacher 🏓
+
 
 <!--
 **asiauche/asiauche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
